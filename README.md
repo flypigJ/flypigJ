@@ -8,18 +8,18 @@
   <a href="https://github.com/flypigJ/Tailscale-OHOS/issues">Feedback</a>
 </p>
 
-<table align="center">
+<table width="100%" align="center">
   <tr>
-    <td width="50%">
+    <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flypigJ&amp;theme=github_dark">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flypigJ&amp;theme=github" alt="Jerry's public GitHub statistics" width="340">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=flypigJ&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;theme=dark&amp;role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=flypigJ&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR" alt="GitHub Stats" height="200">
       </picture>
     </td>
-    <td width="50%">
+    <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flypigJ&amp;theme=github_dark">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flypigJ&amp;theme=github" alt="Most used languages across Jerry's public repositories" width="340">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=flypigJ&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;bg_color=00000000&amp;theme=dark">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=flypigJ&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;bg_color=00000000" alt="Top Languages" height="200">
       </picture>
     </td>
   </tr>
